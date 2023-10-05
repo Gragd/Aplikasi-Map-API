@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">AplikasiMapKota</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="profile">Profile</string>
+    <string name="map">Map</string>
+    <string name="hobi">Hobi</string>
+    <string name="nama">Nama</string>
+    <string name="klik_disini">Klik Disini</string>
+    <string name="selamat_datang_di_aplikasi_ini">Selamat Datang Di Aplikasi Ini</string>
+    <string name="simpan">Simpan</string>
+    <string name="masukkan_nama_kota">Masukkan Nama Kota</string>
+    <string name="isi_data_diri">Isi Data Diri</string>
+    <string name="google_map_api_key">AIzaSyAa4_4KiYfYLYB4LYlvlbECKhzUgcia9jA></string>
+    <string name="ubah_background">Ubah Background</string>
+    <string name="pilih_kota">Pilih kota</string>
+</resources>
